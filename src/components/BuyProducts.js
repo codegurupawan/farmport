@@ -129,7 +129,7 @@ const BuyProducts = () => {
                                         <option name="mango" value={data.mango}>Mango</option>
                                         <option name="masoor" value={data.masoor}>Masoor</option>
                                         <option name="arhar" value={data.arhar}>Arhar</option>
-                                        <option name="moong" value={data.moong}>Moong</option>
+                                        <option name="moong" value={data.moong}>MoongDal</option>
                                         <option name="cauliflower" value={data.cauliflower}>Cauliflower</option>
                                         <option name="potato" value={data.potato}>Potato</option>
                                         <option name="onion" value={data.onion}>Onion</option>
