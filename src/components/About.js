@@ -23,7 +23,7 @@ export default function About() {
                       Grow your business with new ideas and innovations
                     </h5>
                     <h5 className='my-3'>
-                      We are here to help you in growing your business
+                      We are here to help you to Save yor Money
                     </h5>
                     <p>By the help of this technology any farmer can buy or sell their 
                        product on right price. Now farmer don't have to travel for buying 
