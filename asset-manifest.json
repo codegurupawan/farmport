@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farmport/static/css/main.073c9b0a.css",
+    "main.js": "/farmport/static/js/main.282baa30.js",
+    "static/js/787.7f512633.chunk.js": "/farmport/static/js/787.7f512633.chunk.js",
+    "index.html": "/farmport/index.html",
+    "main.073c9b0a.css.map": "/farmport/static/css/main.073c9b0a.css.map",
+    "main.282baa30.js.map": "/farmport/static/js/main.282baa30.js.map",
+    "787.7f512633.chunk.js.map": "/farmport/static/js/787.7f512633.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.282baa30.js"
+  ]
+}
