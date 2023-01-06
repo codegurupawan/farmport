@@ -184,7 +184,7 @@ const SellProducts = () => {
 
                                 <div className="col-12">
                                     <button className="btn btn-outline-primary">
-                                        Submit Form
+                                        Submit Details
                                     </button>
                                 </div>
                             </form>
