@@ -1,5 +1,4 @@
 import React from 'react'
-// import { NavLink } from 'react-router-dom'
 import ServicesCards from './ServicesCard'
 import sData from './ServicesData'
 import './Style.css'
