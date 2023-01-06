@@ -17,7 +17,7 @@ export default function ServicesCards(props) {
                         <p className="card-text">If you are buying anything, you will
                             get it on best price and  if  you are
                             selling anything you will get the best
-                            value for your product.</p>
+                            value for your products.</p>
                         <NavLink to="buyproduct" className="btnwidth btn btn-primary">Buy</NavLink>
                         <NavLink to="sellproduct" className="btnwidth ms-2 btn btn-primary">Sell</NavLink>
                         {/* <Outlet/> */}
